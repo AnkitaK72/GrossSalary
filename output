@@ -1,0 +1,13 @@
+PS C:\Users\ankita.kavathekar\Documents\GitHub> g++ Salary.c
+PS C:\Users\ankita.kavathekar\Documents\GitHub> .\a.exe     
+Enter name: abcd
+Enter Basic Salary: 20000
+Enter HRA: 489
+Enter D.A.: 2335
+Name: abcd 
+BASIC: 20000.000000
+HRA: 489.000000
+DA: 2335.000000
+PF: 2400.000000
+ GROSS SALARY: 25224.000000
+PS C:\Users\ankita.kavathekar\Documents\GitHub>
